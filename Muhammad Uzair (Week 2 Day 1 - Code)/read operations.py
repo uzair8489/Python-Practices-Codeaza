@@ -6,7 +6,7 @@ import pandas as pd
 url = "https://covid-193.p.rapidapi.com/statistics"
 
 headers = {
-	"X-RapidAPI-Key": "eb496f5fb5msh7c07c193e8a1247p1a9724jsn25cc840951e7",
+	"X-RapidAPI-Key": "******",
 	"X-RapidAPI-Host": "covid-193.p.rapidapi.com"
 }
 
