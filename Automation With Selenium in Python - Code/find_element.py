@@ -27,7 +27,7 @@ try:
     search_input = driver.find_element(By.NAME, 'q')
 
     # Perform actions on the search input field
-    search_input.send_keys('OpenAI')
+    search_input.send_keys('Selenium Automation')
 
     time.sleep(2)
 
