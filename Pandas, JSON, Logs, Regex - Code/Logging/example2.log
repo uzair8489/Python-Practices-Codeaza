@@ -1,0 +1,6 @@
+2023-07-07 18:44:35,521 - WARNING - Dividing by zero may result in unexpected behavior
+2023-07-07 18:44:35,521 - ERROR - Division by zero occurred
+2023-07-07 18:45:02,069 - INFO - Division successful: 10 / 2 = 5.0
+2023-07-07 18:45:02,069 - INFO - Execution time: 0.0 seconds
+2023-07-07 18:45:31,475 - INFO - Dividing by zero may result in unexpected behavior
+2023-07-07 18:45:31,475 - ERROR - Division by zero occurred
