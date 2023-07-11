@@ -9,7 +9,7 @@ import pandas as pd
 
 # Initialize the webdriver
 driver = webdriver.Chrome()
-driver.get("https://www.laufen.co.at/produkte/badewannen")
+driver.get("https://www.laufen.co.at/produkte/waschtische")
 
 def click_next_button():
     # Check if the next button is displayed and click it
