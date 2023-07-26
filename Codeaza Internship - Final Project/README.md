@@ -7,11 +7,11 @@ The Yahoo Finance Data API is a web application that provides an API to fetch fi
 ## Requirements
 To run this API, you need the following software installed:
 
-1 Python
-2 Flask
-3 Scrapy
-4 MySQL Connector/Python
-5 Browser
+1. Python
+2. Flask
+3. Scrapy
+4. MySQL Connector/Python
+5. Browser
 
 Install the required Python packages by going into root directory of project and then using using pip.
 
