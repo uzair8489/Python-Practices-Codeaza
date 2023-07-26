@@ -1,0 +1,77 @@
+2023-07-26 12:06:40,528 - WARNING -  * Debugger is active!
+2023-07-26 12:06:40,531 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:06:58,515 - ERROR - An error occurred during spider execution
+2023-07-26 12:06:58,517 - INFO - 127.0.0.1 - - [26/Jul/2023 12:06:58] "[35m[1mGET /fetch_data/ HTTP/1.1[0m" 500 -
+2023-07-26 12:07:48,305 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\yahoo_api.py', reloading
+2023-07-26 12:07:48,481 - INFO -  * Restarting with stat
+2023-07-26 12:07:50,289 - WARNING -  * Debugger is active!
+2023-07-26 12:07:50,296 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:09:20,203 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\yahoo_api.py', reloading
+2023-07-26 12:09:20,326 - INFO -  * Restarting with stat
+2023-07-26 12:09:21,824 - WARNING -  * Debugger is active!
+2023-07-26 12:09:21,828 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:09:25,895 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\yahoo_api.py', reloading
+2023-07-26 12:09:26,110 - INFO -  * Restarting with stat
+2023-07-26 12:09:27,526 - WARNING -  * Debugger is active!
+2023-07-26 12:09:27,526 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:09:35,677 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\yahoo_api.py', reloading
+2023-07-26 12:09:35,786 - INFO -  * Restarting with stat
+2023-07-26 12:09:37,655 - WARNING -  * Debugger is active!
+2023-07-26 12:09:37,655 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:09:45,464 - INFO - Data fetched successfully
+2023-07-26 12:09:45,464 - INFO - 127.0.0.1 - - [26/Jul/2023 12:09:45] "GET /fetch_data/ HTTP/1.1" 200 -
+2023-07-26 12:09:56,833 - INFO - 127.0.0.1 - - [26/Jul/2023 12:09:56] "GET / HTTP/1.1" 200 -
+2023-07-26 12:12:13,594 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\yahoo_api.py', reloading
+2023-07-26 12:12:13,771 - INFO -  * Restarting with stat
+2023-07-26 12:12:15,614 - WARNING -  * Debugger is active!
+2023-07-26 12:12:15,620 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:12:44,963 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\yahoo_api.py', reloading
+2023-07-26 12:12:45,084 - INFO -  * Restarting with stat
+2023-07-26 12:12:46,500 - WARNING -  * Debugger is active!
+2023-07-26 12:12:46,503 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:12:53,780 - INFO - Data retrieved successfully from the database
+2023-07-26 12:12:53,780 - INFO - 127.0.0.1 - - [26/Jul/2023 12:12:53] "GET /get-all-data/ HTTP/1.1" 200 -
+2023-07-26 12:15:51,138 - INFO - Data fetched successfully
+2023-07-26 12:15:51,139 - INFO - 127.0.0.1 - - [26/Jul/2023 12:15:51] "GET /fetch_data/ HTTP/1.1" 200 -
+2023-07-26 12:15:59,901 - INFO - Data retrieved successfully from the database
+2023-07-26 12:15:59,903 - INFO - 127.0.0.1 - - [26/Jul/2023 12:15:59] "GET /get-all-data/ HTTP/1.1" 200 -
+2023-07-26 12:27:30,055 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\yahoo_api.py', reloading
+2023-07-26 12:27:30,210 - INFO -  * Restarting with stat
+2023-07-26 12:27:37,479 - WARNING -  * Debugger is active!
+2023-07-26 12:27:37,479 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:27:44,295 - ERROR - Error fetching data from database: 2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2)
+2023-07-26 12:27:44,295 - INFO - 127.0.0.1 - - [26/Jul/2023 12:27:44] "[35m[1mGET /get-all-data/ HTTP/1.1[0m" 500 -
+2023-07-26 12:29:31,707 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-07-26 12:29:31,708 - INFO - [33mPress CTRL+C to quit[0m
+2023-07-26 12:29:31,714 - INFO -  * Restarting with stat
+2023-07-26 12:29:33,256 - WARNING -  * Debugger is active!
+2023-07-26 12:29:33,260 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:29:35,760 - ERROR - Error fetching data from database: 2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2)
+2023-07-26 12:29:35,760 - INFO - 127.0.0.1 - - [26/Jul/2023 12:29:35] "[35m[1mGET /get-all-data/ HTTP/1.1[0m" 500 -
+2023-07-26 12:29:36,810 - ERROR - Error fetching data from database: 2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2)
+2023-07-26 12:29:36,811 - INFO - 127.0.0.1 - - [26/Jul/2023 12:29:36] "[35m[1mGET /get-all-data/ HTTP/1.1[0m" 500 -
+2023-07-26 12:29:37,958 - ERROR - Error fetching data from database: 2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2)
+2023-07-26 12:29:37,959 - INFO - 127.0.0.1 - - [26/Jul/2023 12:29:37] "[35m[1mGET /get-all-data/ HTTP/1.1[0m" 500 -
+2023-07-26 12:29:38,015 - INFO - 127.0.0.1 - - [26/Jul/2023 12:29:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-07-26 12:29:38,803 - ERROR - Error fetching data from database: 2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2)
+2023-07-26 12:29:38,804 - INFO - 127.0.0.1 - - [26/Jul/2023 12:29:38] "[35m[1mGET /get-all-data/ HTTP/1.1[0m" 500 -
+2023-07-26 12:29:38,856 - INFO - 127.0.0.1 - - [26/Jul/2023 12:29:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-07-26 12:30:10,652 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\yahoo_api.py', reloading
+2023-07-26 12:30:10,800 - INFO -  * Restarting with stat
+2023-07-26 12:30:12,275 - WARNING -  * Debugger is active!
+2023-07-26 12:30:12,275 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:30:23,439 - INFO - Data retrieved successfully from the database
+2023-07-26 12:30:23,448 - INFO - 127.0.0.1 - - [26/Jul/2023 12:30:23] "GET /get-all-data/ HTTP/1.1" 200 -
+2023-07-26 12:31:49,368 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\pyt.py', reloading
+2023-07-26 12:31:49,499 - INFO -  * Restarting with stat
+2023-07-26 12:31:51,243 - WARNING -  * Debugger is active!
+2023-07-26 12:31:51,251 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:32:28,545 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\pyt.py', reloading
+2023-07-26 12:32:28,754 - INFO -  * Restarting with stat
+2023-07-26 12:32:30,963 - WARNING -  * Debugger is active!
+2023-07-26 12:32:30,969 - INFO -  * Debugger PIN: 964-881-287
+2023-07-26 12:35:54,133 - INFO -  * Detected change in 'C:\\Users\\muuza\\OneDrive\\Desktop\\Python Internship Data - Codeaza\\Codeaza Internship - Final Project\\yahoo_flask_app\\yahoo_api.py', reloading
+2023-07-26 12:35:54,333 - INFO -  * Restarting with stat
+2023-07-26 12:35:56,368 - WARNING -  * Debugger is active!
+2023-07-26 12:35:56,372 - INFO -  * Debugger PIN: 964-881-287
